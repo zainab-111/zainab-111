@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zainab-111
+- 👋 Hi, I’m Zainab Gulab
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me zainab.gulab97@gmail.com
